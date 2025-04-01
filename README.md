@@ -13,7 +13,7 @@ Este projeto contém diferentes atividades desenvolvidas em Python, SQL e Node.j
 2. Navegue até o diretório da Atividade 1.
 3. Execute o programa com o comando:
    ```bash
-   webScraping.py
+   python webScraping.py
    ```
 
 ---
@@ -31,7 +31,7 @@ Este projeto contém diferentes atividades desenvolvidas em Python, SQL e Node.j
 3. Navegue até o diretório da Atividade 2.
 4. Execute o programa com o comando:
    ```bash
-   python nome_do_arquivo.py
+   python pdfTableExtract.py
    ```
 
 ---
