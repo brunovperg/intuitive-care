@@ -70,6 +70,6 @@ Este projeto contém diferentes atividades desenvolvidas em Python, SQL e Node.j
    ```
    http://localhost:3000
    ```
-   6. Abra o Postman e importe o arquivo de queries localizado no diretório da Atividade 4 para testar as rotas disponíveis.
+6. Abra o Postman e importe o arquivo de queries localizado no diretório da Atividade 4 para testar as rotas disponíveis.
 
 ---
